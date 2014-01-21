@@ -1,7 +1,7 @@
-### credit for this belongs to https://github.com/AlexDisler/php54-chef-env
-###
-###
-### 
+This recipe deploys an instance on EC2 based on the parameters in Vagrantfile, and using `vagrant up --provider=aws`.
+
+Credit to Alex Disler for building a box described below and provided fine instructions
+### https://github.com/AlexDisler/php54-chef-env
 
 # Chef solo PHP 5.4 environment
 
