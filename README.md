@@ -1,3 +1,8 @@
+### credit for this belongs to https://github.com/AlexDisler/php54-chef-env
+###
+###
+### 
+
 # Chef solo PHP 5.4 environment
 
 ## Description
